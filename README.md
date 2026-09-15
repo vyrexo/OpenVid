@@ -2,7 +2,8 @@
 
 > A lightweight video platform designed for older and low-powered PCs.
 
-Try OpenVid directly in your browser: https://vyrexo.github.io/OpenVid/
+# Try OpenVid directly in your browser: 
+## https://vyrexo.github.io/OpenVid/
 
 OpenVid is a simple, lightweight video feed focused on accessibility and performance.  
 It is designed to provide a familiar video browsing experience without relying on heavy frameworks, complex build systems, or unnecessary client-side overhead.
